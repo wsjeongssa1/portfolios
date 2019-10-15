@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "==1.16.3"
+scikit-learn = "==0.20.3"
+slackclient = "==2.1.0"
+slackeventsapi = "==2.1.0"
+flask = "==0.12.2"
+konlpy = "==0.5.1"
+scipy = "==1.2.1"
+pandas = "==0.24.2"
+nltk = "==3.4.3"
+rouge = "==0.3.2"
+tensorflow-gpu = "==1.14.0"
+jpype1 = "==0.7.0"
+
+[requires]
+python_version = "3.6"
