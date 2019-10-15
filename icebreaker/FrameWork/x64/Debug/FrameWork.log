@@ -1,0 +1,6 @@
+﻿  Over.cpp
+d:\program\ice project\우성\버전0.22 db이전\framework\framework\over.cpp(67): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\program\ice project\우성\버전0.22 db이전\framework\framework\over.cpp(68): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\program\ice project\우성\버전0.22 db이전\framework\framework\over.cpp(74): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\program\ice project\우성\버전0.22 db이전\framework\framework\over.cpp(75): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  FrameWork.vcxproj -> D:\program\Ice Project\우성\버전0.22 DB이전\FrameWork\x64\Debug\FrameWork.exe
